@@ -9,7 +9,7 @@ Hello, I'm Dheeraj Kumar, a passionate Software Developer. I enjoy working on We
 Here are some of the projects I've worked on:
 
 - **[BlogPost](https://my-amazing-blog-n0et.onrender.com)** - Brief description of Project 1.
-- **[Flight Deal Finder](Link to Project 2)** - Brief description of Project 2.
+- **[Flight Deal Finder](https://xyz.com)** - Brief description of Project 2.
 - ...
 
 ## Skills
