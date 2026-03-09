@@ -59,7 +59,7 @@ Here are some of the projects I have worked on:
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajark&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dheerajark&layout=compact&theme=tokyonight)
 
 ---
 
